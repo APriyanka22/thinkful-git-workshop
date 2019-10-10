@@ -66,7 +66,7 @@ __
 [Gloria Guldager](https://www.github.com/gloguldager)<br/>
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
-Elif Demir<br/>
+[Elif Demir]<br/>
 [Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
@@ -80,5 +80,6 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
 [eric hunter](https://github.com/huntereric)<br>
+[Priyanka Annamalai](https://github.com/Apriyanka22)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
